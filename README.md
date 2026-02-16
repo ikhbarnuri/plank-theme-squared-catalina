@@ -1,4 +1,4 @@
-# Plank Theme Squared Catalina
+# Plank Theme - Squared Catalina
 
 Tema Plank dengan desain mengotak dan inspirasi macOS Catalina. 
 
